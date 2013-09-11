@@ -1,12 +1,7 @@
-melonJS boilerplate
+melonJS Trial
 -------------------------------------------------------------------------------
 
-features :
-- video autoscaling
-- mobile optimized HTML/CSS
-- swiping disabled on iOS devices
-- debug Panel (if #debug)
+Melon JS trial game
 
 -------------------------------------------------------------------------------
-Copyright (C) 2011 - 2013, Olivier Biot, Jason Oster
-melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
+Copyright (C) 2011 - 2013, Amal Bose
