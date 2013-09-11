@@ -11,8 +11,8 @@ var game = {
         // add "#debug" to the URL to enable the debug Panel
         if (document.location.hash === "#debug") {
             window.onReady(function () {
-                me.plugin.register.defer(debugPanel, "debug");
-            });
+               me.plugin.register.defer(debugPanel, "debug");
+           });
         }
  
         // Initialize the audio.
